@@ -1,5 +1,5 @@
 {
-	"name": "mikeybeck/rocket-chat",
+	"name": "atdev/rocket-chat",
 	"description": "Rocket Chat REST API PHP Wrapper Library",
 	"keywords": ["rocketchat", "rest", "api"],
 	"homepage": "https://github.com/alekseykuleshov/rocket-chat",
